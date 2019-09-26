@@ -1,2 +1,2 @@
 # C-for-beginners
-//This are my projects of C, form when i was coursing Software Engineering Bachelors in 2019
+//This are my projects of C, from when i was coursing Software Engineering Bachelor's in 2019
